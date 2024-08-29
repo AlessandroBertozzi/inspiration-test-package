@@ -1,8 +1,8 @@
 {
-    "name": "bertozzi/inspire",
+    "name": "alessandrobertozzi/inspire",
     "autoload": {
         "psr-4": {
-            "Bertozzi\\Inspire\\": "src/"
+            "AlessandroBertozzi\\Inspire\\": "src/"
         }
     },
     "authors": [

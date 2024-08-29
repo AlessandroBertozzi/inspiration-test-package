@@ -1,6 +1,6 @@
 <?php
 
-namespace Bertozzi\Inspire;
+namespace AlessandroBertozzi\Inspire;
 
 use Illuminate\Support\Facades\Http;
 

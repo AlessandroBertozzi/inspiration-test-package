@@ -1,6 +1,6 @@
 <?php
 
-namespace Bertozzi\Inspire\Providers;
+namespace AlessandroBertozzi\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

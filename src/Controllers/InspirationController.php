@@ -1,10 +1,8 @@
 <?php
 
-namespace Bertozzi\Inspire\Controllers;
+namespace AlessandroBertozzi\Inspire\Controllers;
 
-
-use Illuminate\Http\Request;
-use Bertozzi\Inspire\Inspire;
+use AlessandroBertozzi\Inspire\Inspire;
 
 class InspirationController
 {
