@@ -15,5 +15,6 @@ class InspirationProvider extends ServiceProvider
     {
         $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
         $this->loadViewsFrom(__DIR__.'/../views', 'inspire');
+        $this->loadMigrationsFrom(__DIR__.'/../migrations');
     }
 }
