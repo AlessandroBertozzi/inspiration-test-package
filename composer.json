@@ -1,0 +1,16 @@
+{
+    "name": "bertozzi/inspire",
+    "autoload": {
+        "psr-4": {
+            "Bertozzi\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alessandro Bertozzi"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
