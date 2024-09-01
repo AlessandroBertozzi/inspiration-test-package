@@ -10,6 +10,9 @@
             "name": "Alessandro Bertozzi"
         }
     ],
+    "extra": {
+        "providers": "AlessandroBertozzi\\Inspire\\Providers\\InspirationProvider"
+    },
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
     }
