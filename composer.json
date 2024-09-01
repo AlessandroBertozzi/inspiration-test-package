@@ -11,7 +11,11 @@
         }
     ],
     "extra": {
-        "providers": "AlessandroBertozzi\\Inspire\\Providers\\InspirationProvider"
+        "laravel": {
+            "providers": [
+                "AlessandroBertozzi\\Inspire\\Providers\\InspirationProvider"
+            ]
+        }
     },
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
